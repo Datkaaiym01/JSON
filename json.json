@@ -1,0 +1,20 @@
+mentee = {
+    "name": "Datkaaiym",
+    "surname": "Toktonaaly kyzy",
+    "age": 18,
+    "married": false,
+    "pets": null,
+    "education": {
+        "university": {
+            "KTU 'Manas'": [{
+                "year": "sophomore",
+                "faculty": {
+                    "Faculty of science": {"department": "Applied Mathematics and Informatics"}}}]}},
+    "languages": [
+        {"Kyrgyz": "excellent", "Russian": "excellent"},
+        {"Turkish": "good"}
+    ],
+    "hobbies": { "bake": ["pie", "roll"], 
+                 "read manga": {"genre": ["josey", "comedy", "horror", "routine"]},
+                 "read book": {"genre": ["self improvement", "crime story", "novel"]} }
+    }
