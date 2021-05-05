@@ -1,13 +1,13 @@
 mentee = {
     "name": "Datkaaiym",
     "surname": "Toktonaaly kyzy",
-    "age": 18,
+    "age": 20,
     "married": false,
     "pets": null,
     "education": {
         "university": {
             "KTU 'Manas'": [{
-                "year": "sophomore",
+                "year": "3",
                 "faculty": {
                     "Faculty of science": {"department": "Applied Mathematics and Informatics"}}}]}},
     "languages": [
