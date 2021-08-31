@@ -7,7 +7,7 @@ mentee = {
     "education": {
         "university": {
             "KTU 'Manas'": [{
-                "year": "3",
+                "year": "4",
                 "faculty": {
                     "Faculty of science": {"department": "Applied Mathematics and Informatics"}}}]}},
     "languages": [
@@ -16,5 +16,8 @@ mentee = {
     ],
     "hobbies": { "bake": ["pie", "roll"], 
                  "read manga": {"genre": ["josey", "comedy", "horror", "routine"]},
-                 "read book": {"genre": ["self improvement", "crime story", "novel"]} }
+                 "read book": {"genre": ["self improvement", "crime story", "novel"]},
+                 "game": ["go"], ["tir"] },
+    "job": "coddy"
     }
+    
