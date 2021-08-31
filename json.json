@@ -17,7 +17,7 @@ mentee = {
     "hobbies": { "bake": ["pie", "roll"], 
                  "read manga": {"genre": ["josey", "comedy", "horror", "routine"]},
                  "read book": {"genre": ["self improvement", "crime story", "novel"]},
-                 "game": ["go"], ["tir"] },
+                 "game": ["go", "tir"] },
     "job": "coddy"
     }
     
